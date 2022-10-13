@@ -1,2 +1,2 @@
 # TamilSentimentDictionary
-Project associates with creating a Sentiment dictionary for Tamil Datasets
+Project associated with creating a Sentiment dictionary for Tamil Datasets
